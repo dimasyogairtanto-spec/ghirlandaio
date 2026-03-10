@@ -49,5 +49,5 @@
 
 #### 1.1 Latar Belakang
 #### Sejak awal perkembangan peradaban manusia, agama dan sains merupakan dua sistem pengetahuan yang memiliki
-## Akar Konflik dalam perspektif Historis
+#### 2.2 Akar Konflik dalam perspektif Historis
 #### Akar konflik dalam memahami manusia dapat dilihat dari perbedaan pendekatan antara ilmu pengetahuan dan pendekatan historis atau kultural. Menurut Yuval Noah Harari, dalam Homo Deus dijelaskan bahwa manusia memiliki kemampuan unik yang tidak dimiliki oleh makhluk lain, yaitu kemampuan menciptakan realitas intersubjektif adalah konsep atau entitas yang sebenarnya tidak ada secara fisik di alam, tetapi menjadi nyata karena diyakini bersama oleh banyak orang.
